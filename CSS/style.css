@@ -9,10 +9,16 @@ h2{
 }
 p{
     font-family:sans-serif;
+    font-style: italic;
 }
 ul{
     line-height: 40px;
+    text-decoration-style: dotted;
 }
 body{
     background-color:#4b5320;
+    line-height: 40px;
+}
+.style{
+  background-color:#c1c400;
 }
